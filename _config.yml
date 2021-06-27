@@ -6,8 +6,12 @@ subtitle: "Version 2.0"
 repository: "mgfarmer/mg"
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
   - jekyll-titles-from-headings
-  - jekyll-include-cached
 
 titles_from_headings:
   enabled:     true
