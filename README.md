@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Building a local development environment
 
-You can use the [editor on GitHub](https://github.com/mgfarmer/mg/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm using Windows. Doing this on Linux is probably simpler.  This process describes how to install everything necessary to build and serve your github_pages project locally so you don't have to commit and push to test every little change.  This is documented on [github](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Install Ruby](https://rubyinstaller.org/downloads): I installed the latest release of Ruby+devkit.  Devkit is probably not required but I'm a professional software developer by trade so...why not.
+* [Install Bundler](https://bundler.io/)
+* [Create a Gemfile](https://bundler.io/gemfile.html)  Your repo needs a Gemfile in the root.  This repo has a Gemfile, so if you start with this repo, you can skip this.
+* Open a shell to the root of the repo and run `bundle install`. This will install all the necessary gems.
+* [Create Personal Access Token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token): This is required to fix the 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Build and server the site locally
 
-```markdown
-Syntax highlighted code block
+Open a git bash shell at the repo root (or wherever your publishing root is set).
 
-# Header 1
-## Header 2
-### Header 3
+* `bundle exec jekyll serve`
+* Open [your site](localhost:4000) in your browser
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgfarmer/mg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
