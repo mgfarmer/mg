@@ -1,6 +1,3 @@
----
-toc: true
----
 ## Welcome!
 
 Welcome to my microgreens site.  This is an ever evolving site that captures my current microgreen's experiences and operations.  I've been at this since about September 2020.  I am by no means an expert, but I've been very successful so far.  I grow strictly for personal consumption and to sell/give-asway my immediate neighbors and friends.  At this point I have no intention of scaling up my operation to be a business  Why not, you ask?  Many reasons!  
