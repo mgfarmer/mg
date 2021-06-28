@@ -99,11 +99,15 @@ My staples are the Sulforaphane Mix from RHS and the Spicy Salad Mix from TLM.  
 
 ## Hydration Strategy
 
+We live on a small farm property and have a well that provides all our water.  The water inside the house (and spigots on the outside walls of the house) go through a water softener.  Most water softeners, ours included, replace hard minerals with salt.  So softened water is really just low concentration salt water.  Plants don't really like this (except maybe Kelp).  We discovered this by observing some our garden and house plants just not thriving in otherwise ideal condition when irrigated with soft water.  So from the get go I only used unsoftened water for the microgreens.  Since we don't have any unsoftened water in the house, I need to go outside to one of the property hydrants to get water.  No big deal.  There's one just 10 feet out my office door.  
+
+Fortunately our well water Ph is ideal for growing microgreens. 
+
 Initially I watered by volume.  Add X amount of water twice a day.  But that got me to thinking "how much water do these micros actually use in a day?" So one day I started weighing the tray every hour or two.  I ended up with a chart that looks like:
 
 ![Water Consumption](../assets/images/water-consumption.jpg)
 
-So its a pretty linear usage which I think is to be expected since the environment (temp, humidity, airflow) is fairly static.  Usage is a combination of evaporation and consumption.  I did this for several days and it was very consistent.  When the micros are just getting started they don't consume as much water, and the micros get bigger they consume more water. So by using weight, I can be very sure and accurate that I'm replacing the water that they consume and not over watering the young ones, or underwatering the more mature ones.
+Usage is a combination of evaporation and consumption.  I did this for a few days and it was very consistent, but increases over time as the greens grow.  When the micros are just getting started they don't consume as much water, and as the micros get bigger they consume more water. So by using weight, I can be very sure and accurate that I'm replacing the water that they consume and not over watering the young ones, or underwatering the more mature ones.
 
 So now I manage hydration by weight, not volume.  
 
