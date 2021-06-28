@@ -101,7 +101,7 @@ My staples are the Sulforaphane Mix from RHS and the Spicy Salad Mix from TLM.  
 
 Initially I watered by volume.  Add X amount of water twice a day.  But that got me to thinking "how much water do these micros actually use in a day?" So one day I started weighing the tray every hour or two.  I ended up with a chart that looks like:
 
-![Water Consumption](../assets/images/water-consuption.jpg)
+![Water Consumption](../assets/images/water-consumption.jpg)
 
 So its a pretty linear usage which I think is to be expected since the environment (temp, humidity, airflow) is fairly static.  Usage is a combination of evaporation and consumption.  I did this for several days and it was very consistent.  When the micros are just getting started they don't consume as much water, and the micros get bigger they consume more water. So by using weight, I can be very sure and accurate that I'm replacing the water that they consume and not over watering the young ones, or underwatering the more mature ones.
 
