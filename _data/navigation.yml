@@ -1,0 +1,29 @@
+main:
+- title: "Where I Grow"
+  url: /where-i-grow.html
+- title: "Equipment"
+  url: /equipment.html
+- title: "Seeds"
+  url: /seeds.html
+- title: "Hydration"
+  url: /hydration.html
+
+menu:
+- title: "My Setup"
+  children:
+  - title: "Where I Grow"
+    url: where-i-grow.html
+  - title: "Equipment List"
+    url: equipment.html
+  - title: "Power Usage"
+    url: power.html
+  - title: "SmartHome"
+    url: "smart-home.html"
+- title: "Growing"
+  children:
+  - title: "Medium"
+    url: grow-medium.html
+  - title: "Seeds"
+    url: seeds.html
+  - title: "Hydration"
+    url: hydration.html
