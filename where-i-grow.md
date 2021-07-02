@@ -8,7 +8,7 @@ When I first started this (mid-pandemic, autumn 2020) I built a simple small rac
 I've been working full-time from home for several years. I have a nice home office. My office is technically a bedroom in our house. It also has a large sliding glass door that exits to the backyard. It is the main egress to the backyard. So calling it a bedroom is kind of a non-starter. It is an office. It has one of those closets that usually have a set of bifold doors, so it is quite wide and 24"/70cm deep.  This closet is where I grow.  Before the closet could become a growing facility it needed to be "remodeled" so that it would be visually pleasing with the door removed. So I:
 
 * Removed the bifold doors.
-* Trimmed-out the entire closet in bead board (and about 6 tubes of caulk).
+* Trimmed-out the entire closet in bead board (and about 6 tubes of caulk because nothing in this house is square).
 * Added shelves to the sides, leaving the entire center portion of the closet open.  
 * Added a 12"x36" LED panel light to the top of the closet ceiling (this is closet task lighting, not a grow light).
 * Added a light switch just outside the closet for the ceiling light.
