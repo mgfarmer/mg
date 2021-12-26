@@ -10,9 +10,9 @@ Initially I watered by volume.  Add X amount of water twice a day.  But that got
 
 Usage is a combination of evaporation and consumption.  I did this for a few days and it was very consistent, but increases over time as the greens grow.  When the micros are just getting started they don't consume as much water, and as the micros get bigger they consume more water. So by using weight, I can be very sure and accurate that I'm replacing the water that they consume and not over watering the young ones, or underwatering the more mature ones.
 
-So now I manage hydration by weight, not volume.  
+So now I manage hydration by weight, not volume.
 
-![Weighing The Tray](assets/images/weigh_tray.jpg)
+![Weighing The Tray](../assets/images/weigh_tray.jpg)
 
 That pictures shows less than 3.5Kg because I took it several hours after adding water.  
 
@@ -28,9 +28,11 @@ Since my scale is much smaller than the tray. I use a piece of 1/4 hardboard on 
 * Add this weight to the 324g, giving 464g.
 * Add water to the tray until it read 464g.
 * Place the top tray back into the bottom tray.
-* The scale should now read very close to 3.5Kg. (And you don't need to be super precise!)
+* The scale should now read very close to 3.5Kg. (And you don't need to be super precise! +/- 100g is just fine.)
 * And I'm done with this tray.
 
 Right now the magic number is 3500g.  This is the weight of the entire tray (tray, medium, plant, and water).  Twice a day (target every 12 hours), I weigh the tray, mentally computer how much water to add to get it back to ~3.5Kg, then add that much water.
+
+Update:  I've since given up on the mental math and just printed out a chart that I can look up the weight on, and, right next to the weight number is the number of grams of water I need to add to get the weight back up to 3.5Kg.  Much easier.
 
 The magic 3.5Kg number is just that, magic.  There is no formula to come up with it. I picked it based on subjectively judging adequate moisture levels during several grows.  It takes some experimentation and trial-and-error, but since I settled on that 3.5Kg number, I haven't had to changed it, my medium stays nice and moist, but not too moist, and my grows have been excellent, and mold has been banished!  If you choose to water by weight, 3.5Kg might be a good starting point.  You may need to adjust it though.
