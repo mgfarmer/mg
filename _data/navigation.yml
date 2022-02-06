@@ -19,7 +19,7 @@ menu:
     url: power.html
   - title: "SmartHome"
     url: "smart-home.html"
-- title: "Growing"
+- title: "General Information"
   children:
   - title: "Medium"
     url: grow-medium.html
@@ -27,3 +27,12 @@ menu:
     url: seeds.html
   - title: "Hydration"
     url: hydration.html
+- title: "The Growing Process"
+  - title: "Tray Preparation"
+    url: tray_preparation.html
+  - title: "Seeding"
+    url: seeding.html
+  - title: "The Dark Time"
+    url: dark_times.html
+  - title: "Let There Be Light"
+    url: let_there_be_light.html
